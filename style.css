@@ -1,0 +1,5 @@
+.default {
+  h2 {
+    @apply mb-8;
+  }
+}
