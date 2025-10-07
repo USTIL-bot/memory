@@ -216,4 +216,5 @@ int main(void) {
 
 ## 代码下载
 
-[memory-code.zip](./memory-code.zip)
+<a href="/memory-code.zip" target="_blank">memory-code.zip</a>
+
